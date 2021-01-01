@@ -619,4 +619,5 @@ footer{
 }
 .nav, .pics, .icon, .card, img:hover{
     cursor: pointer;
+    position: relative;
 }
